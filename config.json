@@ -1,0 +1,253 @@
+{
+  "id": "d3d2fba2-2a23-46c0-a150-89c398f1210d",
+  "title": "Твердыня: Право сильного",
+  "description": "Вы — Твердыня (Хоумлендер). Самый могущественный человек на планете. Но Пацаны снова замышляют заговор, Эшли бьется в истерике, а в правительстве зреет заговор против Воут. Сможете ли вы удержать власть, рассудок и любовь толпы?\n\nCreated with @mindteamai_bot",
+  "author": "Тайный фанат Воут",
+  "version": "1.0.0",
+  "startNodeId": "26771c7a-95b9-4597-a73e-a9a21a4fa069",
+  "password": null,
+  "created": "2026-06-28T20:00:00.000Z",
+  "lastOpened": "2026-06-28T20:00:00.000Z",
+  "updated": "2026-06-29T06:05:00.000Z",
+  "backgroundAssetId": "res/images/vought_tower.png",
+  "dimBackground": true,
+  "hideNodeTitles": false,
+  "nodeTransitionMode": "none",
+  "category": "Thriller",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "previewFileName": "res/images/logo.jpg",
+  "tags": [
+    {
+      "id": "98597c55-6622-4791-b52b-13ff2f6e9121",
+      "name": "Глава 1",
+      "cameraState": {
+        "offsetX": 0,
+        "offsetY": 0,
+        "scale": 0.4
+      }
+    }
+  ],
+  "nodes": [],
+  "connections": [
+    {
+      "id": "c0000001-c000-c000-c000-c00000000001",
+      "fromId": "26771c7a-95b9-4597-a73e-a9a21a4fa069",
+      "toId": "e7dbef85-71bb-4e96-a86d-0be7e4b52c00"
+    },
+    {
+      "id": "c0000002-c000-c000-c000-c00000000002",
+      "fromId": "26771c7a-95b9-4597-a73e-a9a21a4fa069",
+      "toId": "19be0a77-3e19-48ba-97ba-a044dbf6b158"
+    },
+    {
+      "id": "c0000003-c000-c000-c000-c00000000003",
+      "fromId": "26771c7a-95b9-4597-a73e-a9a21a4fa069",
+      "toId": "03730704-58bc-467a-8f1d-f8ec0098dfbe"
+    },
+    {
+      "id": "c0000004-c000-c000-c000-c00000000004",
+      "fromId": "e7dbef85-71bb-4e96-a86d-0be7e4b52c00",
+      "toId": "fa183cde-7d9a-4cb1-bd93-13debf79c6ea"
+    },
+    {
+      "id": "c0000005-c000-c000-c000-c00000000005",
+      "fromId": "e7dbef85-71bb-4e96-a86d-0be7e4b52c00",
+      "toId": "0eb712da-4ab8-49ee-9467-33a7f8cb159b"
+    },
+    {
+      "id": "c0000006-c000-c000-c000-c00000000006",
+      "fromId": "19be0a77-3e19-48ba-97ba-a044dbf6b158",
+      "toId": "a92b101c-79c2-48df-b9fb-19c235fa8f12"
+    },
+    {
+      "id": "c0000007-c000-c000-c000-c00000000007",
+      "fromId": "19be0a77-3e19-48ba-97ba-a044dbf6b158",
+      "toId": "fa183cde-7d9a-4cb1-bd93-13debf79c6ea"
+    },
+    {
+      "id": "c0000008-c000-c000-c000-c00000000008",
+      "fromId": "fa183cde-7d9a-4cb1-bd93-13debf79c6ea",
+      "toId": "0eb712da-4ab8-49ee-9467-33a7f8cb159b"
+    },
+    {
+      "id": "c0000009-c000-c000-c000-c00000000009",
+      "fromId": "fa183cde-7d9a-4cb1-bd93-13debf79c6ea",
+      "toId": "a92b101c-79c2-48df-b9fb-19c235fa8f12"
+    },
+    {
+      "id": "c0000010-c000-c000-c000-c00000000010",
+      "fromId": "a92b101c-79c2-48df-b9fb-19c235fa8f12",
+      "toId": "303be7d2-7fb8-41bd-b2be-0ae7cb86cf20"
+    },
+    {
+      "id": "c0000011-c000-c000-c000-c00000000011",
+      "fromId": "a92b101c-79c2-48df-b9fb-19c235fa8f12",
+      "toId": "da51d8b6-9ca8-4b71-bdfc-8e65bdcf56e1"
+    },
+    {
+      "id": "c0000012-c000-c000-c000-c00000000012",
+      "fromId": "0eb712da-4ab8-49ee-9467-33a7f8cb159b",
+      "toId": "9bc1de2d-cf7a-4ab0-b193-4a18d19762df"
+    },
+    {
+      "id": "c0000013-c000-c000-c000-c00000000013",
+      "fromId": "0eb712da-4ab8-49ee-9467-33a7f8cb159b",
+      "toId": "0cd8a712-4217-48b9-9231-1cd47abf18eb"
+    },
+    {
+      "id": "c0000014-c000-c000-c000-c00000000014",
+      "fromId": "0cd8a712-4217-48b9-9231-1cd47abf18eb",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    },
+    {
+      "id": "c0000015-c000-c000-c000-c00000000015",
+      "fromId": "03730704-58bc-467a-8f1d-f8ec0098dfbe",
+      "toId": "90f5b404-f58c-4c60-a23d-c11cc28f73f7"
+    },
+    {
+      "id": "c0000016-c000-c000-c000-c00000000016",
+      "fromId": "03730704-58bc-467a-8f1d-f8ec0098dfbe",
+      "toId": "6a80d738-fbb6-4652-9491-0309919f8644"
+    },
+    {
+      "id": "c0000017-c000-c000-c000-c00000000017",
+      "fromId": "03730704-58bc-467a-8f1d-f8ec0098dfbe",
+      "toId": "21183cf6-ec38-4e8c-843b-398fb695d535"
+    },
+    {
+      "id": "c0000018-c000-c000-c000-c00000000018",
+      "fromId": "90f5b404-f58c-4c60-a23d-c11cc28f73f7",
+      "toId": "48fbcbe0-6fbd-460d-bc0f-90e82c16fa05"
+    },
+    {
+      "id": "c0000019-c000-c000-c000-c00000000019",
+      "fromId": "90f5b404-f58c-4c60-a23d-c11cc28f73f7",
+      "toId": "0eb712da-4ab8-49ee-9467-33a7f8cb159b"
+    },
+    {
+      "id": "c0000020-c000-c000-c000-c00000000020",
+      "fromId": "6a80d738-fbb6-4652-9491-0309919f8644",
+      "toId": "d7b4097f-9bc3-48fb-a9b0-4dbceefc6b75"
+    },
+    {
+      "id": "c0000021-c000-c000-c000-c00000000021",
+      "fromId": "6a80d738-fbb6-4652-9491-0309919f8644",
+      "toId": "82f9c3a3-b0df-4fbd-8ef7-7f9a2fb361cb"
+    },
+    {
+      "id": "c0000022-c000-c000-c000-c00000000022",
+      "fromId": "21183cf6-ec38-4e8c-843b-398fb695d535",
+      "toId": "3b9a0fd8-0387-43cf-bc0a-c0bf3ffefc50"
+    },
+    {
+      "id": "c0000023-c000-c000-c000-c00000000023",
+      "fromId": "21183cf6-ec38-4e8c-843b-398fb695d535",
+      "toId": "e1bcde91-11b0-4df2-8e12-d0bc261a8fbb"
+    },
+    {
+      "id": "c0000024-c000-c000-c000-c00000000024",
+      "fromId": "d7b4097f-9bc3-48fb-a9b0-4dbceefc6b75",
+      "toId": "a92b101c-79c2-48df-b9fb-19c235fa8f12"
+    },
+    {
+      "id": "c0000025-c000-c000-c000-c00000000025",
+      "fromId": "d7b4097f-9bc3-48fb-a9b0-4dbceefc6b75",
+      "toId": "48fbcbe0-6fbd-460d-bc0f-90e82c16fa05"
+    },
+    {
+      "id": "c0000026-c000-c000-c000-c00000000026",
+      "fromId": "82f9c3a3-b0df-4fbd-8ef7-7f9a2fb361cb",
+      "toId": "1f0cd991-92b1-4bc9-93e8-f9b3e1c662ef"
+    },
+    {
+      "id": "c0000027-c000-c000-c000-c00000000027",
+      "fromId": "82f9c3a3-b0df-4fbd-8ef7-7f9a2fb361cb",
+      "toId": "60e64c12-32b7-4b71-92b1-12cd31a78ef5"
+    },
+    {
+      "id": "c0000028-c000-c000-c000-c00000000028",
+      "fromId": "48fbcbe0-6fbd-460d-bc0f-90e82c16fa05",
+      "toId": "f2cb89d1-81f1-4db9-be01-f2f6cdb6e20c"
+    },
+    {
+      "id": "c0000029-c000-c000-c000-c00000000029",
+      "fromId": "3b9a0fd8-0387-43cf-bc0a-c0bf3ffefc50",
+      "toId": "cf92bd3a-0e9b-43d8-a8bf-0c6d9bf34f3b"
+    },
+    {
+      "id": "c0000030-c000-c000-c000-c00000000030",
+      "fromId": "3b9a0fd8-0387-43cf-bc0a-c0bf3ffefc50",
+      "toId": "2ab039fb-2bdf-4d32-bc55-c49bcf206bb3"
+    },
+    {
+      "id": "c0000031-c000-c000-c000-c00000000031",
+      "fromId": "cf92bd3a-0e9b-43d8-a8bf-0c6d9bf34f3b",
+      "toId": "b2f132e0-2cb0-410e-bd32-849c3bf79133"
+    },
+    {
+      "id": "c0000032-c000-c000-c000-c00000000032",
+      "fromId": "2ab039fb-2bdf-4d32-bc55-c49bcf206bb3",
+      "toId": "da92cbb0-2810-4be2-be82-f32df3df7166"
+    },
+    {
+      "id": "c0000033-c000-c000-c000-c00000000033",
+      "fromId": "e1bcde91-11b0-4df2-8e12-d0bc261a8fbb",
+      "toId": "0eb712da-4ab8-49ee-9467-33a7f8cb159b"
+    },
+    {
+      "id": "c0000034-c000-c000-c000-c00000000034",
+      "fromId": "e1bcde91-11b0-4df2-8e12-d0bc261a8fbb",
+      "toId": "60e64c12-32b7-4b71-92b1-12cd31a78ef5"
+    },
+    {
+      "id": "c0000035-c000-c000-c000-c00000000035",
+      "fromId": "303be7d2-7fb8-41bd-b2be-0ae7cb86cf20",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    },
+    {
+      "id": "c0000036-c000-c000-c000-c00000000036",
+      "fromId": "da51d8b6-9ca8-4b71-bdfc-8e65bdcf56e1",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    },
+    {
+      "id": "c0000037-c000-c000-c000-c00000000037",
+      "fromId": "9bc1de2d-cf7a-4ab0-b193-4a18d19762df",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    },
+    {
+      "id": "c0000038-c000-c000-c000-c00000000038",
+      "fromId": "60e64c12-32b7-4b71-92b1-12cd31a78ef5",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    },
+    {
+      "id": "c0000039-c000-c000-c000-c00000000039",
+      "fromId": "1f0cd991-92b1-4bc9-93e8-f9b3e1c662ef",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    },
+    {
+      "id": "c0000040-c000-c000-c000-c00000000040",
+      "fromId": "f2cb89d1-81f1-4db9-be01-f2f6cdb6e20c",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    },
+    {
+      "id": "c0000041-c000-c000-c000-c00000000041",
+      "fromId": "b2f132e0-2cb0-410e-bd32-849c3bf79133",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    },
+    {
+      "id": "c0000042-c000-c000-c000-c00000000042",
+      "fromId": "da92cbb0-2810-4be2-be82-f32df3df7166",
+      "toId": "26771c7a-95b9-4597-a73e-a9a21a4fa069"
+    }
+  ],
+  "variables": [
+    {
+      "name": "Деньги",
+      "defaultValue": 100
+    }
+  ]
+}
