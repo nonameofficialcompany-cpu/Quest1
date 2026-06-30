@@ -1,0 +1,13 @@
+{
+  "id": "a72df9e6-34d2-43bb-bdf8-6c0b36eeef1e",
+  "name": "sc_money_plus20",
+  "actions": [
+    {
+      "id": "d8a39d8d-cb4a-4a81-9b19-ef8a1e27a6f3",
+      "type": "variable",
+      "variableName": "Деньги",
+      "operation": "add",
+      "value": 20
+    }
+  ]
+}

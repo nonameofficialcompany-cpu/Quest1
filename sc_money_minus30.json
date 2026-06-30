@@ -1,0 +1,13 @@
+{
+  "id": "e2d09df2-9b2e-4b68-b715-4fa7933109a2",
+  "name": "sc_money_minus30",
+  "actions": [
+    {
+      "id": "fc1a2b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5c",
+      "type": "variable",
+      "variableName": "Деньги",
+      "operation": "subtract",
+      "value": 30
+    }
+  ]
+}

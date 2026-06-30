@@ -1,0 +1,15 @@
+{
+  "id": "c1f2b2e3-2e4c-47a3-8984-7a988d8dbfa3",
+  "name": "sc_check30",
+  "actions": [
+    {
+      "id": "cb1a2b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5e",
+      "type": "condition",
+      "variableName": "Деньги",
+      "operator": "greaterOrEqual",
+      "value": 30,
+      "thenNodeId": "a92b101c-79c2-48df-b9fb-19c235fa8f12",
+      "elseNodeId": "60e64c12-32b7-4b71-92b1-12cd31a78ef5"
+    }
+  ]
+}
